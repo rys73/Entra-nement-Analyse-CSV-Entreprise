@@ -10,3 +10,5 @@ L'objectif est de calculer des indicateurs clés (CA, marge, score pondérés, r
 -  Créer un score pondéré et un indice de performance normalisé pour les employés
 -  Identifier les top employés les plus performeur et les sous-performeur.
 -  Calculer la marge par produit et le CLV (Customer Lifetime Value)
+-  Générer des visualisations : heatmaps, boxplots, swarmplots, histogramme empilés
+-  Exporter les données finale dans "8_datasets_sauvegarde.csv" et les graphiques en format PDF dans "8_graphiques.pdf"
